@@ -1,0 +1,1 @@
+La dirección IP de mi VM es: inet addr:192.168.0.8
